@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;mobixy&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../gitlab.plazius.ru" />
+      <root url="file://D:/GoProjects/src/bitbucket.org" />
+      <root url="file://D:/GoProjects/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../../../gitlab" />
+      <root url="file://D:/GoProjects/src/golang.org" />
+      <root url="file://D:/GoProjects/src/rsc.io" />
+      <root url="file://D:/GoProjects/src/gitlab" />
+      <root url="file://D:/GoProjects/src/sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../.." />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../gitlab.plazius.ru" />
+      <root url="file://D:/GoProjects/src/bitbucket.org" />
+      <root url="file://D:/GoProjects/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../../../gitlab" />
+      <root url="file://D:/GoProjects/src/golang.org" />
+      <root url="file://D:/GoProjects/src/rsc.io" />
+      <root url="file://D:/GoProjects/src/gitlab" />
+      <root url="file://D:/GoProjects/src/sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../.." />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
